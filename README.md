@@ -26,20 +26,7 @@ The system uses **two ESP32 boards** communicating via **ESP-NOW**.
 - Buzzer alert on obstacle or tilt
 - Signal loss protection (auto stop)
 
-## 📂 Project Structure
 
-Hand-Gesture-Wheelchair/
-│
-├── chair_unit/
-│ └── chair_unit.ino
-│
-├── hand_unit/
-│ └── hand_unit.ino
-│
-└── README.md
-
-markdown
-Copy code
 
 ## 🛠 Hardware Used
 
